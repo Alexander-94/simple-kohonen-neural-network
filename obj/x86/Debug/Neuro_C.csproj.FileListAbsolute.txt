@@ -1,0 +1,49 @@
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\bin\Debug\Neuro_C.exe
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\bin\Debug\Neuro_C.pdb
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\Neuro_C.exe
+c:\documents and settings\оксана\мои документы\visual studio 2010\Projects\Neuro_C\Neuro_C\obj\x86\Debug\Neuro_C.pdb
+C:\Users\Alex\Desktop\Neuro_C\obj\x86\Debug\Neuro_C.exe
+C:\Users\Alex\Desktop\Neuro_C\obj\x86\Debug\Neuro_C.pdb
+C:\Users\Alex\Desktop\Neuro_C\bin\Debug\Neuro_C.exe
+C:\Users\Alex\Desktop\Neuro_C\bin\Debug\Neuro_C.pdb
+C:\Users\Alex\Desktop\Neuro_C\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alex\Desktop\Neuro_C\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alex\Desktop\Neuro_C\obj\x86\Debug\Neuro_C.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Neuro_C\obj\x86\Debug\Neuro_C.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Neuro_6to10\obj\x86\Debug\Neuro_C.exe
+C:\Users\Alex\Desktop\Neuro_6to10\obj\x86\Debug\Neuro_C.pdb
+C:\Users\Alex\Desktop\Neuro_6to10\bin\Debug\Neuro_C.exe
+C:\Users\Alex\Desktop\Neuro_6to10\bin\Debug\Neuro_C.pdb
+C:\Users\Alex\Desktop\Neuro_6to10\obj\x86\Debug\Neuro_C.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Neuro_6to10\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alex\Desktop\Neuro_6to10\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alex\Desktop\Neuro_6to10\obj\x86\Debug\Neuro_C.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Nseti\Neuro_6to10\obj\x86\Debug\Neuro_C.exe
+C:\Users\Alex\Desktop\Nseti\Neuro_6to10\obj\x86\Debug\Neuro_C.pdb
+C:\Users\Alex\Desktop\kohonen\obj\x86\Debug\Neuro_C.exe
+C:\Users\Alex\Desktop\kohonen\obj\x86\Debug\Neuro_C.pdb
+C:\Users\Alex\Desktop\kohonen\obj\x86\Debug\Neuro_C.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\kohonen\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alex\Desktop\kohonen\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alex\Desktop\kohonen\obj\x86\Debug\Neuro_C.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\kohonen\bin\Debug\Neuro_C.exe
+C:\Users\Alex\Desktop\kohonen\bin\Debug\Neuro_C.pdb
+C:\Users\Alex\Desktop\kohonen\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Alex\Desktop\kohonen\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+K:\курсач_finall\kohonen\obj\x86\Debug\Neuro_C.exe
+K:\курсач_finall\kohonen\obj\x86\Debug\Neuro_C.pdb
+C:\Users\Alexa\Desktop\2\5курс_1\нейронные сети\курсач_finall\kohonen\kohonen\obj\x86\Debug\Neuro_C.exe
+C:\Users\Alexa\Desktop\2\5курс_1\нейронные сети\курсач_finall\kohonen\kohonen\obj\x86\Debug\Neuro_C.pdb
+C:\Users\Alexa\Desktop\2\5курс_1\нейронные сети\курсач_finall\kohonen\kohonen\bin\Debug\Neuro_C.exe
+C:\Users\Alexa\Desktop\2\5курс_1\нейронные сети\курсач_finall\kohonen\kohonen\bin\Debug\Neuro_C.pdb
+C:\Users\Alexa\Desktop\2\5курс_1\нейронные сети\курсач_finall\kohonen\kohonen\obj\x86\Debug\Neuro_C.csprojResolveAssemblyReference.cache
+C:\Users\Alexa\Desktop\2\5курс_1\нейронные сети\курсач_finall\kohonen\kohonen\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alexa\Desktop\2\5курс_1\нейронные сети\курсач_finall\kohonen\kohonen\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Alexa\Desktop\2\5курс_1\нейронные сети\курсач_finall\kohonen\kohonen\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Alexa\Desktop\2\5курс_1\нейронные сети\курсач_finall\kohonen\kohonen\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alexa\Desktop\2\5курс_1\нейронные сети\курсач_finall\kohonen\kohonen\obj\x86\Debug\Neuro_C.csproj.GenerateResource.Cache
